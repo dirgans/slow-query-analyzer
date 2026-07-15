@@ -39,7 +39,7 @@ src
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/nestjs-slow-query-analyzer.git
+git clone https://github.com/yourusername/slow-query-analyzer.git
 ```
 
 ### Install Dependencies
